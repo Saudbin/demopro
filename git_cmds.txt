@@ -17,4 +17,23 @@ git add .
 git commit -m "commit label"
 git push
 
+
+clone
 --------------
+
+git clone "url"
+
+branch
+--------------
+
+git branch branchname
+git checkout branchname
+
+pull request
+----------------
+
+git pull "url"
+
+
+
+
